@@ -1,0 +1,15 @@
+1.Throughtput
+25477/47,308=538,5347087173417 bytes/s
+538,5347087173417 x 8 = 4308 KB
+
+2. lost packet = 
+(119-117)/119x100
+=1,68
+
+3.delay
+* total delay=3.051.019
+* rata2 delay=25.639
+
+4. jiter
+*total jiter = 5.055.300
+*rata2 jiter = 50884,87
